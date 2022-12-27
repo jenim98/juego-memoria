@@ -1,0 +1,45 @@
+{"cartas":[   
+ 	{
+   	"direccion":"img/cartas/cartasclow/", 
+	"carta":[
+		{
+	 	"nombre":"A",
+		"archivo":"glow.jpg"
+		},
+		{
+		"nombre":"B",
+		"archivo":"sweet.jpg"
+		},
+		{
+		"nombre":"C",
+		"archivo":"windy.png"
+		},
+		{
+		"nombre":"D",
+		"archivo":"wood.png"
+		},
+		{
+	 	"nombre":"tapada",
+		"archivo":"reverso.png"
+		}
+		]
+    }
+	],
+"fondo":[
+	{
+		"nombre":"Sakura",
+		"direccion":"img/fondos/sakura.jpg"
+	}
+
+
+],
+"boton":[
+	{
+		"nombre":"boton1",
+		"direccion":"img/botones/empezar.png"
+	}
+
+
+]
+	
+}
